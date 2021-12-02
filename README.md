@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey!, welcome 👋
 
 My name is Sebastian, nice to meet you. I'm a __Software Engineer__ currently focusing on web development as a __Fullstack Web Dev__.
 
